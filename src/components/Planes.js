@@ -16,7 +16,7 @@ function Plane({ plane ,ondate}) {
   return (
     <div className="row bs" data-aos='fade-up'>
       <div className="col-md-2">
-        <img src={plane.imageurls[0]} className="smallimg" />
+        <img src={plane.imageurls[0]} className="smallimg" alt="flight" />
       </div>
       <div className="col-md-2">
         <h3>{plane.name}</h3>
@@ -57,6 +57,7 @@ function Plane({ plane ,ondate}) {
  <img
                   className="d-block w-100 bigimg"
                   src={plane.imageurls[1]}
+                  alt="flight"
                  
                 />
             
@@ -65,6 +66,7 @@ function Plane({ plane ,ondate}) {
  <img
                   className="d-block w-100 bigimg"
                   src={plane.imageurls[2]}
+                  alt="flight"
                  
                 />
             

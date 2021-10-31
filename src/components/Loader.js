@@ -2,7 +2,7 @@ import React,  {useState} from "react";
 import SkewLoader from "react-spinners/SkewLoader";
 function Loader() {
   let [loading, setLoading] = useState(true);
-  let [color, setColor] = useState("#ffffff");
+ 
   
   return (
     <div style={{marginTop:'150px'}}>

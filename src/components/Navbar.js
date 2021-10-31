@@ -49,7 +49,7 @@ function Navbar() {
                       Profile
                     </a>
                     
-                    <a class="dropdown-item" href="#" onClick={logout}>
+                    <a class="dropdown-item" href="/login" onClick={logout}>
                      Logout
                     </a>
                    
