@@ -15,13 +15,14 @@ function App() {
     <Navbar/>
     <BrowserRouter>
 
+    <Route path="/" exact component={Landingscreen}/>
     <Route path="/home" exact component={Homescreen}/>
     <Route path="/book/:planeid/:ondate" exact component={Bookingscreen}/>
     <Route path="/register" exact component={Registerscreen}/>
     <Route path="/login" exact component={Loginscreen}/>
     <Route path="/profile" exact component={Profilescreen}/>
     <Route path="/admin" exact component={Adminscreen}/>
-    <Route path="/client-airlines" exact component={Landingscreen}/>
+   
     
     
     </BrowserRouter>
