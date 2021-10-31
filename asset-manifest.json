@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/newfly/static/css/main.92e3d367.chunk.css",
-    "main.js": "/newfly/static/js/main.4d6a101e.chunk.js",
-    "main.js.map": "/newfly/static/js/main.4d6a101e.chunk.js.map",
-    "runtime-main.js": "/newfly/static/js/runtime-main.d7ecd622.js",
-    "runtime-main.js.map": "/newfly/static/js/runtime-main.d7ecd622.js.map",
-    "static/css/2.1dcedd5d.chunk.css": "/newfly/static/css/2.1dcedd5d.chunk.css",
-    "static/js/2.e5c3cd97.chunk.js": "/newfly/static/js/2.e5c3cd97.chunk.js",
-    "static/js/2.e5c3cd97.chunk.js.map": "/newfly/static/js/2.e5c3cd97.chunk.js.map",
-    "static/js/3.526158db.chunk.js": "/newfly/static/js/3.526158db.chunk.js",
-    "static/js/3.526158db.chunk.js.map": "/newfly/static/js/3.526158db.chunk.js.map",
-    "index.html": "/newfly/index.html",
-    "static/css/2.1dcedd5d.chunk.css.map": "/newfly/static/css/2.1dcedd5d.chunk.css.map",
-    "static/css/main.92e3d367.chunk.css.map": "/newfly/static/css/main.92e3d367.chunk.css.map",
-    "static/js/2.e5c3cd97.chunk.js.LICENSE.txt": "/newfly/static/js/2.e5c3cd97.chunk.js.LICENSE.txt"
+    "main.css": "/client-airlines/static/css/main.92e3d367.chunk.css",
+    "main.js": "/client-airlines/static/js/main.0059285f.chunk.js",
+    "main.js.map": "/client-airlines/static/js/main.0059285f.chunk.js.map",
+    "runtime-main.js": "/client-airlines/static/js/runtime-main.04e215bc.js",
+    "runtime-main.js.map": "/client-airlines/static/js/runtime-main.04e215bc.js.map",
+    "static/css/2.1dcedd5d.chunk.css": "/client-airlines/static/css/2.1dcedd5d.chunk.css",
+    "static/js/2.e5c3cd97.chunk.js": "/client-airlines/static/js/2.e5c3cd97.chunk.js",
+    "static/js/2.e5c3cd97.chunk.js.map": "/client-airlines/static/js/2.e5c3cd97.chunk.js.map",
+    "static/js/3.526158db.chunk.js": "/client-airlines/static/js/3.526158db.chunk.js",
+    "static/js/3.526158db.chunk.js.map": "/client-airlines/static/js/3.526158db.chunk.js.map",
+    "index.html": "/client-airlines/index.html",
+    "static/css/2.1dcedd5d.chunk.css.map": "/client-airlines/static/css/2.1dcedd5d.chunk.css.map",
+    "static/css/main.92e3d367.chunk.css.map": "/client-airlines/static/css/main.92e3d367.chunk.css.map",
+    "static/js/2.e5c3cd97.chunk.js.LICENSE.txt": "/client-airlines/static/js/2.e5c3cd97.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7ecd622.js",
+    "static/js/runtime-main.04e215bc.js",
     "static/css/2.1dcedd5d.chunk.css",
     "static/js/2.e5c3cd97.chunk.js",
     "static/css/main.92e3d367.chunk.css",
-    "static/js/main.4d6a101e.chunk.js"
+    "static/js/main.0059285f.chunk.js"
   ]
 }
