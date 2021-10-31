@@ -1,7 +1,7 @@
 import React,  {useState} from "react";
 import SkewLoader from "react-spinners/SkewLoader";
 function Loader() {
-  let [loading, setLoading] = useState(true);
+  let [loading, setloading] = useState(true);
  
   
   return (
