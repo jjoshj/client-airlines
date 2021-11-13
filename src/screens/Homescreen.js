@@ -105,7 +105,7 @@ function Homescreen() {
             }}
           >
             <option>All</option>
-            {planes.map((plane) => {
+            {!loading && planes.map((plane) => {
               return (
                 <>
                   <option>{plane.place}</option>
