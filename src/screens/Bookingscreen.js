@@ -90,7 +90,7 @@ function Bookingscreen({ match }) {
       {loading ? (
         <Loader />
       ) : plane ? (
-        <div>
+        <div className="container ">
           <div className="row justify-content-center mt-5 bs">
             <div className="col-md-6">
               <h4>{plane.name}</h4>

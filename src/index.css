@@ -42,9 +42,15 @@ code {
   padding: 20px!important;
   background-color: snow;
 }
+
 .bigimg{
-  height:400px;
+  height:150px !important;
   border-radius: 5px!important;
+}
+@media (min-width: 500px) {
+  .bigimg{
+    height: 400px !important ;
+  }
 }
 input, select, .ant-picker , .refresh{
   box-shadow: none !important;
